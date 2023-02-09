@@ -6,6 +6,7 @@
 ## Использованные средства
 * [JavaFX](https://openjfx.io/) и [SceneBuilder](https://gluonhq.com/products/scene-builder/) - создание интерфейса.
 * [IntellijIDEA](jetbrains.com/ru-ru/idea/) - среда разработки.
+* [OpenWeather](https://openweathermap.org/) - сервич для поиска информации о погоде.
 ## Авторы
 Всю работу сделал Андрей [facecontrol34](https://github.com/facecontrol34).
 ## Использованные источникик
